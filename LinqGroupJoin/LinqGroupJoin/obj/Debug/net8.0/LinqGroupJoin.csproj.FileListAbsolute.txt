@@ -1,0 +1,14 @@
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\bin\Debug\net8.0\LinqGroupJoin.exe
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\bin\Debug\net8.0\LinqGroupJoin.deps.json
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\bin\Debug\net8.0\LinqGroupJoin.runtimeconfig.json
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\bin\Debug\net8.0\LinqGroupJoin.dll
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\bin\Debug\net8.0\LinqGroupJoin.pdb
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\LinqGroupJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\LinqGroupJoin.AssemblyInfoInputs.cache
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\LinqGroupJoin.AssemblyInfo.cs
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\LinqGroupJoin.csproj.CoreCompileInputs.cache
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\LinqGroupJoin.dll
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\refint\LinqGroupJoin.dll
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\LinqGroupJoin.pdb
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\LinqGroupJoin.genruntimeconfig.cache
+C:\Users\ysefa\source\repos\LinqGroupJoin\LinqGroupJoin\obj\Debug\net8.0\ref\LinqGroupJoin.dll
